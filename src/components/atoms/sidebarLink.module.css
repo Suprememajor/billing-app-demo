@@ -1,0 +1,15 @@
+.section {
+  display: flex;
+  gap: 10px;
+  padding-left: 16px;
+  width: 228px;
+  height: 48px;
+  align-items: center;
+}
+
+.section p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #62618f;
+}

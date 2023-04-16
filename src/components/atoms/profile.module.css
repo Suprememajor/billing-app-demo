@@ -1,0 +1,37 @@
+.profile {
+  display: flex;
+  gap: 14px;
+  height: 55px;
+  padding-left: 22px;
+}
+
+.profile p {
+    margin: 0;
+
+}
+
+.image {
+  background-color: cyan;
+  height: 55px;
+  width: 55px;
+  border-radius: 17px;
+}
+
+.text_div {
+  display: flex;
+  flex-direction: column;
+}
+
+.username {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1a194d;
+}
+
+.handle {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #62618f;
+}

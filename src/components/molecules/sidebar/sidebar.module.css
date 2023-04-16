@@ -1,0 +1,35 @@
+.section {
+  width: 260px;
+  height: 100%;
+  background-color: #f8f8ff;
+  padding-top: 58px;
+  padding-left: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.linkDiv {
+  margin-top: 49px;
+}
+
+.btn {
+  display: flex;
+  background-color: transparent;
+  border: none;
+  gap: 10px;
+  align-content: center;
+  flex-wrap: wrap;
+  height: 48px;
+}
+
+.btn p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #62618f;
+  margin: 0;
+  display: inline;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,15 @@
+.section {
+  height: 100%;
+  width: 100%;
+  padding: 65px 386px 107px 72px;
+  background: linear-gradient(304.24deg, #f8f8ff 0%, #ffffff 86.71%);
+  box-shadow: 0px 49px 32px -19px rgba(56, 56, 150, 0.15);
+  border-radius: 32px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  color: #1a194d;
+}
